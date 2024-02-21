@@ -20,7 +20,7 @@ The next paragraph/line is prefixed with "[//]: # ".
 [//]: # This is possibly a comment prefixed paragraph.
 
 The next paragraph/line is surrounded with dash arrows like '<!---' and '-->'.
-It is suggested for Vim [Instant-Markdown](https://github.com/suan/vim-instant-markdown) use.
+It is suggested for Vim [Instant-Markdown](https://github.com/suan/vim-instant-markdown) use.&nbsp; 
 Both GitHub's Markdown renderer and VSCode's Markdown syntax highlighter 
 interpret it as a comment.
 
