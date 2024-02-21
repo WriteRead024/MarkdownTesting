@@ -21,6 +21,8 @@ The next paragraph/line is prefixed with "[//]: # ".
 
 The next paragraph/line is surrounded with dash arrows like '<!---' and '-->'.
 It is suggested for Vim [Instant-Markdown](https://github.com/suan/vim-instant-markdown) use.
+Both GitHub's Markdown renderer and VSCode's Markdown syntax highlighter 
+interpret it as a comment.
 
 <!---
 This is a dash-arrow surrounded paragraph.
