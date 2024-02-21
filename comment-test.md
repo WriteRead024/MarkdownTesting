@@ -38,6 +38,10 @@ The empty-text hyperlink comment seems like an excellent approach.  The next par
 
 [](Comment text example in an empty-text hyperlink.)
 
+As another test, the next paragraph/line surrounds a space character with square brackets.
+
+[ ](Comment text example in an empty-text hyperlink.)
+
 The comments in the StackOverflow discussion concerning the use of comments for 
 document metadata are possibly worth considering for specific usage scenarios.
 
